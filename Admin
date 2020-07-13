@@ -1,0 +1,11 @@
+package Railway_Reservation_System;
+
+	public class admin {
+
+	    int main() {
+	        System.out.println("ITS UNDER CONSTRUCTION");
+	        System.out.println("-------------------------------");
+	        return 0;
+	    }
+
+}
