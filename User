@@ -44,10 +44,10 @@ public class user {
                 c++;
                 System.out.print("\nSEAT NO : " + a + " IS AVAILABLE");
                 System.out.print("\nSEAT : " + seat[i]);
-                System.out.print("\nENTER THE PASSENGER " + j +" NAME : ");
+                System.out.print("\nENTER PASSENGER NAME : ");
                 name[a][0] = s.next();
                 s.nextLine();
-                System.out.print("\nENTER THE AGE OF PASSENGER : ");
+                System.out.print("\nENTER PASSENGER AGE: ");
                 name[a][1] = s.nextLine();
                 ar.put(a, 1);
             }
