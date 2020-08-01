@@ -1,4 +1,3 @@
-
 /**
 *
 * @author Sathiya
@@ -9,6 +8,7 @@ package railway;
 	public class admin {
 
 	    int main() {
+	    	System.out.println("\n-------------------------------");
 	        System.out.println("ITS UNDER CONSTRUCTION");
 	        System.out.println("-------------------------------");
 	        return 0;
