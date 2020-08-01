@@ -1,10 +1,10 @@
 
 /**
- *
- * @author Sathiya
- */
- 
-package Railway_Reservation_System;
+*
+* @author Sathiya
+*/
+
+package railway;
 
 	public class admin {
 
