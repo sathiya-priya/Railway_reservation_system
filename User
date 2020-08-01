@@ -1,14 +1,15 @@
 
+
 /**
  *
  * @author Sathiya
  */
  
-package Railway_Reservation_System;
+package railway;
 import java.util.HashMap;
 import java.util.Scanner;
 
-import Railway_Reservation_System.password;
+import railway.password;
 
 public class user {
 
