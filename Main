@@ -1,10 +1,12 @@
 
+
 /**
- *
- * @author Sathiya
- */
- 
-package Railway_Reservation_System;
+*
+* @author Sathiya
+*/
+
+package railway;
+
 
 import java.util.Scanner;
 
@@ -43,4 +45,3 @@ import java.util.Scanner;
 	        }
 	    }
 	}
-
